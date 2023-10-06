@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [Description](#description)
+* [Key Features](#keyfeatures)
 * [Objectives](#objectives)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -9,10 +10,27 @@
 * [Licence](#licence)
 
 ## Description
-We created this repository to create our last project of introduction to artificial intelligence, the purpose is to analyze a dataset looking for an specific behaviour.
+This GitHub repository houses a Python-based project that aims to provide an in-depth analysis of wine flavors and quality assessments. By leveraging natural language processing (NLP) a sentiment analysis techniques, this project seeks to interpret and score wine tasting descriptions, helping enthusiasts and experts better understand and appreciate the nuances of wine.
+
+## Key Features
+* Data Collection: We gather a comprehensive dataset of wine tasting notes, including descriptions of flavors, aromas, and other sensory characteristics.
+
+* Preprocessing: Text data is preprocessed to ensure consistency and prepare it for sentiment analysis.
+
+* Sentiment Analysis: State-of-the-art sentiment analysis models are employed to gauge the sentiment expressed in tasting descriptions, helping us understand the emotional undertones.
+
+* Classification: Wine descriptions are classified into various taste categories (e.g., fruity, oaky, earthy) based on sentiment analysis results.
+
+* Cata Score Generation: A unique scoring system is developed to assign quantitative ratings to wine descriptions, aiding in wine evaluation and recommendation.
 
 ## Objectives
-Still in progess....
+### General
+* To develop a comprehensive wine taste analysis system using Python, which leverages advanced natural language processing (NLP) techniques and sentiment analysis to interpret wine tasting descriptions
+* Categorize them into taste profiles, and generate quantitative cata scores, ultimately enhancing the understanding and appreciation of wine.
+
+### Specific
+* To create a process that uses Natural Language Processing
+* Organize the given data
 
 ## Technologies
 This project is created with:
@@ -35,6 +53,7 @@ Still in progress....
 
 ## Authors
 More details about the authors in the [AUTHORS.md](https://github.com/miguelgonrod/WineClassificationAnalisis/blob/main/AUTHORS.md) file.
+Additionally, to clarify, the dataset is not ours, to look up for the original creator refer to the original dataset: https://www.kaggle.com/datasets/zynicide/wine-reviews
 
 ## Licence
-ProyectoIntroAI is available under the BSD-3-Clause license. See the LICENSE file for more details.
+WineClassificationAnalisis is available under the BSD-3-Clause license. See the LICENSE file for more details.
