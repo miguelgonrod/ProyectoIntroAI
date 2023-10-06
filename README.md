@@ -1,4 +1,4 @@
-# ProyectoIntroAI
+# WineClassificationAnalisis
 
 ## Table of contents
 * [Description](#description)
@@ -34,7 +34,7 @@ $ pip install -r requirements
 Still in progress....
 
 ## Authors
-More details about the authors in the [AUTHORS.md](https://github.com/miguelgonrod/ProyectoIntroAI/blob/main/AUTHORS.md) file.
+More details about the authors in the [AUTHORS.md](https://github.com/miguelgonrod/WineClassificationAnalisis/blob/main/AUTHORS.md) file.
 
 ## Licence
 ProyectoIntroAI is available under the BSD-3-Clause license. See the LICENSE file for more details.
