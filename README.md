@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [Description](#description)
+* [Objectives](#objectives)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Authors](#authors)
@@ -9,6 +10,9 @@
 
 ## Description
 We created this repository to create our last project of introduction to artificial intelligence, the purpose is to analyze a dataset looking for an specific behaviour.
+
+## Objectives
+Still in progess....
 
 ## Technologies
 This project is created with:
