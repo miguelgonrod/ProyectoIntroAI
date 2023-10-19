@@ -1,11 +1,5 @@
 pandas
-<<<<<<< HEAD
 numpy==1.24.4
 matplotlib
 scikit-learn
 spacy
-en_core_web_md
-=======
-numpy
-matplotlib
->>>>>>> 3572c4526d3ffddf25bc0ce1d6e023a81b17cf12
