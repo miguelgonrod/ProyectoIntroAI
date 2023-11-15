@@ -44,9 +44,10 @@ $ git clone https://github.com/miguelgonrod/WineClassificationAnalisis.git
 $ cd WineClassificationAnalisis
 ```
 
-Now you need to install the requirements:
+Now you need to install the requirements. Ensure to install the spaCy model as well.
 ```
 $ pip install -r requirements.txt
+python -m spacy download en_core_web_md
 ```
 
 Still in progress....
@@ -55,5 +56,5 @@ Still in progress....
 More details about the authors in the [AUTHORS.md](https://github.com/miguelgonrod/WineClassificationAnalisis/blob/main/AUTHORS.md) file.
 Additionally, to clarify, the dataset is not ours, to look up for the original creator refer to the original dataset: https://www.kaggle.com/datasets/zynicide/wine-reviews
 
-## Licence
+## License
 WineClassificationAnalysis is available under the BSD-3-Clause license. See the LICENSE file for more details.
