@@ -1,4 +1,4 @@
-# WineClassificationAnalysis
+# WineClassificationAnalisis
 
 ## Table of contents
 * [Description](#description)
@@ -40,14 +40,13 @@ This project is created with:
 To run this project you need to have python installed and clone this repository:
 ```
 $ sudo apt install python3 python3-pip
-$ git clone https://github.com/miguelgonrod/WineClassificationAnalisis.git
-$ cd WineClassificationAnalisis
+$ git clone https://github.com/miguelgonrod/ProyectoIntroAI
+$ cd ProyectoIntroAI
 ```
 
-Now you need to install the requirements. Ensure to install the spaCy model as well.
+Now you need to install the requirements:
 ```
-$ pip install -r requirements.txt
-python -m spacy download en_core_web_md
+$ pip install -r requirements
 ```
 
 Still in progress....
@@ -56,5 +55,5 @@ Still in progress....
 More details about the authors in the [AUTHORS.md](https://github.com/miguelgonrod/WineClassificationAnalisis/blob/main/AUTHORS.md) file.
 Additionally, to clarify, the dataset is not ours, to look up for the original creator refer to the original dataset: https://www.kaggle.com/datasets/zynicide/wine-reviews
 
-## License
-WineClassificationAnalysis is available under the BSD-3-Clause license. See the LICENSE file for more details.
+## Licence
+WineClassificationAnalisis is available under the BSD-3-Clause license. See the LICENSE file for more details.
